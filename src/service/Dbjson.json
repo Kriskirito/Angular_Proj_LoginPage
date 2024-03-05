@@ -1,0 +1,39 @@
+{
+  "Users": [ 
+    {
+
+    "id" :1,
+    "name" :"Hari Krishnan",
+    "phone": 9080425608,
+    "salary" :20000,
+    "role" :"It Trainee"
+},
+    {
+
+    "id" :3,
+    "name" :"gokul Krishnan",
+    "phone": 90802325608,
+    "salary" :25000,
+    "role" :"Cyber Trainee"
+},
+    {
+
+    "id" :2,
+    "name" :"Gokul Krishnan",
+    "phone": 90834525608,
+    "salary" :15000,
+    "role" :"Hr Trainee"
+}
+  
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}

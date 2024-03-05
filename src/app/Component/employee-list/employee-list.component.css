@@ -1,0 +1,28 @@
+/* Select the entire mat-table */
+.mat-table {
+    border-collapse: collapse; /* Ensure cells share borders */
+     /* Set table width */
+  }
+  
+  /* Select header cells */
+  .mat-header-cell {
+    border: 1px solid #ccc; /* Apply border */
+    padding: 8px; /* Add padding */
+  }
+  
+  /* Select cells */
+  .mat-cell {
+    border: 1px solid #ccc; /* Apply border */
+    padding: 8px; /* Add padding */
+  }
+  
+  /* Select header row */
+  .mat-header-row {
+    background-color: #f0f0f0; /* Apply background color */
+  }
+  
+  /* Select rows */
+  .mat-row {
+    background-color: #fff; /* Apply background color */
+  }
+  
